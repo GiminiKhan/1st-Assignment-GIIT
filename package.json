@@ -1,0 +1,12 @@
+{
+  "name": "Typescript and node js 45 assignment",
+  "version": "1.0.0",
+  "description": " In this typescript file i have solved all 45 assignments of GIAIC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Qurratulain Khan (Roll No. 00074020)",
+  "license": "ISC"
+}
